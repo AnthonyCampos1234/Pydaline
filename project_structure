@@ -1,0 +1,13 @@
+network_anomaly_detector/
+├── data/
+│   └── synthetic_data.py
+├── models/
+│   ├── __init__.py
+│   ├── deep_detector.py
+│   └── traditional_detector.py
+├── utils/
+│   ├── __init__.py
+│   └── data_processor.py
+├── train.py
+├── predict.py
+└── requirements.txt 

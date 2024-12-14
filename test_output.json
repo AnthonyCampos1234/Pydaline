@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-01-15 22:24:00",
+  "bandwidth": 0.4800972069298019,
+  "latency": 35.84930698846229,
+  "packet_loss": 0.01760072454907352,
+  "packet_size": 1500,
+  "connection_count": 85,
+  "temperature": 69,
+  "humidity": 54,
+  "weather_condition": "Clear",
+  "wind_speed": 9
+}

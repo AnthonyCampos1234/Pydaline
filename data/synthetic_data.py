@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 class NetworkTrafficGenerator:
     def __init__(self):
-        self.noise_factor = 0.27290689727998174 
+        self.noise_factor = 0.2735794685540885  # Updated noise factor
         self.traffic_patterns = {
             'normal': {
                 'bandwidth_mean': 500,  

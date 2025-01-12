@@ -3,6 +3,9 @@
 ## Overview
 An intelligent network monitoring system that combines deep learning with traditional machine learning to detect, predict, and analyze network connectivity issues. Originally motivated by inconsistent T-Mobile home internet performance in Lewisburg, PA, this project evolved into a comprehensive solution for network performance monitoring and analysis.
 
+## Development Update (Bugfix)
+- Fix PyTorch serialization issues with state dict
+
 ## Development Update (Model Enhancement)
 - Create weighted loss combination for hybrid approach
 

@@ -17,7 +17,7 @@ An intelligent network monitoring system that combines deep learning with tradit
 - **Environmental Integration**: OpenWeather API for weather correlation
 - **Visualization**: Interactive dashboards using matplotlib and seaborn
 
-<img src="anomaly_detection.png" width="150" style="margin: 10px;"/>
+<img src="anomaly_detection.png" width="400" style="margin: 10px;"/>
 
 ## Core Components
 1. **Network Monitoring**
